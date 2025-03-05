@@ -1,5 +1,5 @@
-<span id="a">admin@nanotransen</span>:<span id="b">~</span><span id="c">$</span> cd Beta/<!-- kjsdfhkjdhsfkjdshfkj -->Main
-<span id="a">admin@nanotransen</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->main.txt<br/><br/>
+<span id="a">admin@nanotrasen</span>:<span id="b">~</span><span id="c">$</span> cd Beta/<!-- kjsdfhkjdhsfkjdshfkj -->Main
+<span id="a">admin@nanotrasen</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->main.txt<br/><br/>
 Current connected devices: "<span id="k">26.18.93.124</span>". <!-- sjkfhskjf -->
 
 Attenpting to access core..<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <span id="k">[FAILURE]</span><br>
