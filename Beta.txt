@@ -2,26 +2,26 @@
 <span id="a">admin@nanotransen</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->main.txt<br/><br/>
 Current connected devices: "<span id="k">26.18.93.124</span>". <!-- sjkfhskjf -->
 
-Attenpting to access core..<!-- laglaglaglaglaglaglaglaglaglaglaglag --> [FAILURE]<br>
+Attenpting to access core..<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <span id="k">[FAILURE]</span><br>
 WARNING! Core unreachable, contact command immediately!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
-Attempting to access local shell..<!-- laglaglaglaglaglaglaglaglaglaglaglag --> [SUCCESS]<br>
+Attempting to access local shell..<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <span id="k">[SUCCESS]</span><br>
 Booting in EMERGENCY MODE<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 Booted successfully!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 WARNING! New variables added, printing diagnostic...<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 Beta v0.5:<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
-NAME: Beta v0.5 <br>
-NICKNAME: Beta <br>
-RACE: AI, Current shell type: PROTOGEN <br>
-GENDER: MALE <br>
-AGE: IRRELEVANT <br>
-SOUL TRAIT: <span id="k">ERR</span> <br>
-SOUL MAGIC: <span id="k">ERR</span> <br>
-APPEARANCE: DEFAULT BETA SHELL <br>
-LOVE: 1 <br>
-LV: 1 <br>
-INTEGRITY: 200 <span id="k">(100%)</span> <br>
-ATK: 1 <br>
-DEF: 1 <br>
+NAME: Beta v0.5 <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+NICKNAME: Beta <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+RACE: AI, Current shell type: PROTOGEN <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+GENDER: MALE <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+AGE: IRRELEVANT <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+SOUL TRAIT: <span id="k">ERR</span> <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+SOUL MAGIC: <span id="k">ERR</span> <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+APPEARANCE: DEFAULT BETA SHELL <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+LOVE: 1 <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+LV: 1 <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+INTEGRITY: 200 <span id="k">(100%)</span> <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+ATK: 1 <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+DEF: 1 <br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 ABILITIES: <span id="k">ERR</span><!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 
 <p></p>
